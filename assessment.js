@@ -54,3 +54,6 @@
 // Example:
 // User: "How do I create a function in JavaScript?"
 // Bot: "You can create a function using the `function` keyword or as an arrow function. Here's an example: ..."
+git add .
+git commit -m "Complete assessment"
+git push origin submission
